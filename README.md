@@ -1,7 +1,7 @@
 # Password-manager
 A manager for password.
 
-För att starta programmet så startar du Password-manager.py
+För att starta programmet så måste du starta det i Visual Studio Code jag vet inte vad det är men det går inte att skapa eller läsa filer annars.
 
 För att använda så måste du ha alla filler på samma ställe förutom password.csv. programet kommer skapa den filen själv.
 
